@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1491724278 source:c:\users\relry\documents\codeblocks\c\lista usuario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+

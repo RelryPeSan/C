@@ -1,0 +1,202 @@
+# depslib dependency file v1.0
+1476167648 source:c:\users\relry\documents\relry\programação\codeblocks\projetos\jogo - snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1476991814 source:f:\codeblocks\jogo - snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdarg.h>
+	<string.h>
+
+1476746694 source:d:\codeblocks\jogo - snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1476746694 source:c:\users\fpt.9336641025\desktop\jogo - snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1477069818 source:f:\codeblocks\jogo - snake v 1.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdarg.h>
+	<string.h>
+
+1477199128 source:e:\codeblocks\jogo - snake v 1.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdarg.h>
+	<string.h>
+
+1477324722 source:f:\codeblocks\jogo - snake v 1.3u\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdarg.h>
+	<string.h>
+
+1477349406 source:d:\codeblocks\jogo - snake v 1.3u\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdarg.h>
+	<string.h>
+
+1477380492 source:c:\users\cmu\desktop\jogo - snake v 1.3u\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdarg.h>
+	<string.h>
+
+1477401817 source:c:\users\cmu\desktop\jogo - snake v 1.4u\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdarg.h>
+	<string.h>
+
+1477406268 source:f:\codeblocks\jogo - snake v 1.4u\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdarg.h>
+	<string.h>
+
+1477406877 source:c:\users\gabinete\desktop\jogo - snake v1.4u\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdarg.h>
+	<string.h>
+
+1477454730 source:c:\users\cmu\desktop\jogo - snake v1.4uyuhjv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdarg.h>
+	<string.h>
+
+1477502451 source:c:\users\gabinete\desktop\jogo - snake v1.4u tentativa2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdarg.h>
+	<string.h>
+
+1477504698 source:c:\users\cmu\desktop\jogo - snake v1.4u tentativa3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdarg.h>
+	<string.h>
+
+1477546147 source:c:\users\cmu\desktop\jogo - snake v1.4.1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdarg.h>
+	<string.h>
+
+1478100757 source:c:\users\cmu\desktop\jogo - snake v1.5u\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdarg.h>
+	<string.h>
+
+1478232581 source:c:\users\relry\desktop\jogo - snake v1.5u\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdarg.h>
+	<string.h>
+
+1478201351 source:c:\users\gabinete\desktop\jogo - snake v1.5u\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdarg.h>
+	<string.h>
+
+1478233480 source:c:\users\relry\desktop\jogo - snake v1.5.1u - cópia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdarg.h>
+	<string.h>
+
+1478466523 source:c:\users\relry\desktop\jogo - snake v1.5.2u\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdarg.h>
+	<string.h>
+
+1478834820 source:c:\users\relry\desktop\jogo - snake v1.5.3f\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdarg.h>
+	<string.h>
+
+1478831220 source:c:\users\relry\documents\codeblocks\c\jogo - snake\jogo - snake v1.5.3f\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdarg.h>
+	<string.h>
+

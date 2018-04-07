@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1474915851 source:c:\users\gabinete\documents\codeblocks\funcoes c parametros variaveis\main.c
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+

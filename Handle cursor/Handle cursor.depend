@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1491833675 source:c:\users\relry\documents\codeblocks\c\handle cursor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"cursorFunctions.c"
+
+1491834244 c:\users\relry\documents\codeblocks\c\handle cursor\cursorfunctions.c
+	<windows.h>
+	<stdarg.h>
+

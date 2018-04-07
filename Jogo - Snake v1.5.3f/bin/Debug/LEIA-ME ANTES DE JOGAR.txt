@@ -1,0 +1,22 @@
+Para obter uma melhor performance e afim de oferecer uma melhor
+jogabilidade durante o jogo, siga estes passos para configurar o game.
+
+1 - Abra o executavel(Snake.exe)
+2 - Após iniciar a tela de menu, clique com o botão direito sobre o 
+nome "Snake"(canto superior esquerdo) e clique em "Propriedades"
+3 - Vá até a aba "Fonte" e em seguida:
+	-Selecione "Fontes de varredura" na opção "Fonte"
+	-Logo após, na opção "Tamanho" selecione "12x 16"
+4 - clique em ok
+
+Pronto desfrute do jogo!!!
+
+
+OBS.: o jogo ainda se encontra em desenvolvimento(versão Beta), caso
+encontrar algum bug ou erro durante a execução do jogo, não fique 
+bravo falando que o jogo é uma merda ou coisa assim, pense que nenhum 
+jogo por mais foda ou por mais simples que seja é livre de bug e erros,
+então, não exite em entrar em contato e me informar sobre o problema.
+Valeu :)
+
+E-mail: relry.pe.san@hotmail.com

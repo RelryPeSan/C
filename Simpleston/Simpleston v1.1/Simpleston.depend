@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1490337506 source:c:\users\relry\documents\codeblocks\c\simpleston\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1490365839 source:c:\users\relry\documents\codeblocks\c\simpleston\simpleston v1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1490378885 source:c:\users\cmu\documents\codeblocks\c\simpleston\simpleston v1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1495599804 source:c:\users\relry\documents\codeblocks\c\selectionmenu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"auxfunction.h"
+
+1495599796 c:\users\relry\documents\codeblocks\c\selectionmenu\auxfunction.h
+	<stdio.h>
+	<windows.h>
+
